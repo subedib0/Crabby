@@ -1,15 +1,63 @@
 h1{
+    text-align: center;
     font-weight:bold;
-    font-size:150px;
-    background-color:blue;
+    font-size:120px;
+    background-color:aquamarine;
     font-family: 'Pacifico', cursive;
 
 }
+nav{
+
+    background-color: aqua;
+
+}
+
+.p {
+
+    font-family: 'Courgette', cursive;
+}
+
+
+
+body {
+    /* The image used */
+    background:url(../images/recepi.jpg) no-repeat center center fixed;
+
+
+    height: 100%;
+
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+/*
+
+body, html {
+    height: 100%;
+}
+
+.bg {
+    /* The image used */
+/*background-image: url("img_girl.jpg");*/
+
+/* Full height */
+/*height: 100%;
+
+/* Center and scale the image nicely */
+/*background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+ */
+
+.font-family{: 'Open Sans', sans-serif;}
 
 img{
 
     width:50%;
-    height: 40px;
+
 }
 
 .headerclass{
@@ -27,6 +75,7 @@ img{
 }
 
 h2{
+
     font-family: 'Pacifico', cursive;
 }
 
